@@ -1,0 +1,10 @@
+.preview {
+    position: relative;
+}
+
+.previewClose {
+    position: absolute;
+    top: 0;
+    margin: 5x;
+    font-size: 18px;
+}
